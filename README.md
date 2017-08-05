@@ -1,7 +1,7 @@
 # estuding-github
 lorem ipsum
 
-- [ ] start
+- [x] start
 - [ ] update
 - [ ] finish
 
