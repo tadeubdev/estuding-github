@@ -1,6 +1,10 @@
 # estuding-github
 lorem ipsum
 
+- [ ] start
+- [ ] update
+- [ ] finish
+
 Hello my dear test!
 
 
